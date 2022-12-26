@@ -1,0 +1,3 @@
+/home/vakidzaci/projects/test/CMakeFiles/DisplayImage.dir
+/home/vakidzaci/projects/test/CMakeFiles/edit_cache.dir
+/home/vakidzaci/projects/test/CMakeFiles/rebuild_cache.dir
